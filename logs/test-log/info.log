@@ -1,0 +1,13 @@
+16:45:08.235 [restartedMain] INFO  c.e.e.ElkApplication - [logStarting,55] - Starting ElkApplication using Java 1.8.0_301 on LAPTOP-GV3CBINR with PID 3404 (E:\code\elk\target\classes started by wangp in E:\code\elk)
+16:45:08.239 [restartedMain] INFO  c.e.e.ElkApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+16:45:09.113 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+16:45:09.113 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+16:45:09.113 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16:45:09.117 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+16:45:09.124 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:45:09.125 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:45:09.125 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+16:45:09.180 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:45:09.422 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:45:09.442 [restartedMain] INFO  c.e.e.ElkApplication - [logStarted,61] - Started ElkApplication in 1.937 seconds (JVM running for 3.345)
+16:45:45.674 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

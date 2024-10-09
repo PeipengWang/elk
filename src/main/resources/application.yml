@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+log:
+  # logstash 地址和端口，注意修改
+  logstash-host: 152.136.246.11:4560
